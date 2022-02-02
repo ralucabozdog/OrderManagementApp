@@ -1,0 +1,15 @@
+Order 2
+
+Bianca, thank you for your order!
+
+We will provide further details by mail, to biancablaga@gmail.com.
+Your products will be delivered to Alba Iulia in no time.
+On the day of the delivery, we will send a text message to 0752163458 to let you know your products are near.
+
+Here is a quick overview of your order:
+
+Product 1:    stilou        39.0 RON      x 1
+Product 2:    set creioane colorate        12.0 RON      x 1
+Product 3:    raportor        2.7 RON      x 1
+
+TOTAL:      53.7 RON

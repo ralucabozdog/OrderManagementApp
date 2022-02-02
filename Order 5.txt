@@ -1,0 +1,13 @@
+Order 5
+
+Oana, thank you for your order!
+
+We will provide further details by mail, to oanaolanescu@gmail.com.
+Your products will be delivered to Medias in no time.
+On the day of the delivery, we will send a text message to 0732132456 to let you know your products are near.
+
+Here is a quick overview of your order:
+
+Product 1:    rezerva stilou        0.1 RON      x 7
+
+TOTAL:      0.7000000000000001 RON

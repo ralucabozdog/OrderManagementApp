@@ -1,0 +1,14 @@
+Order 1
+
+Henry, thank you for your order!
+
+We will provide further details by mail, to henryhabuc@gmail.com.
+Your products will be delivered to Constanta in no time.
+On the day of the delivery, we will send a text message to 0748125469 to let you know your products are near.
+
+Here is a quick overview of your order:
+
+Product 1:    rezerva stilou        0.1 RON      x 5
+Product 2:    semn de carte        8.6 RON      x 2
+
+TOTAL:      17.7 RON
